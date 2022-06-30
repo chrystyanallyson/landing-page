@@ -1,0 +1,37 @@
+body{
+    font-family: 'montserratregular';
+}
+
+.header {
+    background-image: url(../images/banner.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    position: relative;
+}
+
+.header img {
+    position: absolute;
+    bottom: -50px;
+}
+
+.navbar .nav-link {
+    color: #fff;
+    text-transform: uppercase;
+    text-align: inherit;
+    margin-top: 15px;
+}
+
+.our-story{
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.our-story img{
+    width: 280px;
+}
+
+.our-story h2{
+    font-size: 40px;
+    font-weight: bold;
+}
