@@ -125,3 +125,12 @@ h2{
     background-repeat: no-repeat;
     background-position: right center;
 }
+
+.fine-food{
+    padding-top: 115px;
+    padding-bottom: 100px;
+}
+
+.fine-food img{
+    width: 250px;
+}
